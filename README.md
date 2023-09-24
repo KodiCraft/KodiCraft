@@ -1,7 +1,9 @@
-I am Kodi or Kody, I am a computer science studying, aiming to be a software architect or something like that idk
+hi! im kodi
 
-I "work" on a couple of neat open-source projects, but I tend to get overambitious and/or give up on a number of projects, so I apologize if something I made doesn't get much support.
+i am a computer science student who does silly shit in her free time. on this repository you can find whatever projects i decided to work on for 5-8 hours before getting tired of them
 
-I'm always open to try to fix issues with my stuff though, let me know if I fuck up!
+i try to keep my blog at [kdcf.me](https://www.kdcf.me) up to date on whatever stuff im doing to showcase my projects and the thought process behind them
 
-Also, as a student, I don't have the best knowledge of industry standards and common behaviour, but I'm always open to learn! Let me know about style issues, or bad practice, but please don't be mean.
+i also try to sometimes contribute to public projects but i sometimes struggle with actually wriing anything worthwhile
+
+thanks for looking around!
